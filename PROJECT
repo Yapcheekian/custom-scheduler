@@ -1,0 +1,6 @@
+domain: my.domain
+layout:
+- go.kubebuilder.io/v3
+projectName: custom-scheduler
+repo: github.com/Yapcheekian/custom-scheduler
+version: "3"
